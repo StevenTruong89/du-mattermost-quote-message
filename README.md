@@ -12,7 +12,7 @@ A simple and efficient Mattermost plugin that allows users to quote messages dir
 - Real-time quote insertion into message composer
 
 ## Requirements
-- Mattermost v11 or compatible versions
+- Mattermost v9 or compatible versions
 - Go (for server development)
 - Node.js and npm (for webapp development)
 
