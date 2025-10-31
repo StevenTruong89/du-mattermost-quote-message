@@ -2,6 +2,9 @@
 
 A simple and efficient Mattermost plugin that allows users to quote messages directly in conversations.
 
+<img width="396" height="392" alt="image" src="https://github.com/user-attachments/assets/4d6bd523-9d77-4515-a664-e9f76509f885" />
+
+
 ## Features
 - Quick quote functionality from post dropdown menu
 - Automatic Markdown formatting with author attribution
