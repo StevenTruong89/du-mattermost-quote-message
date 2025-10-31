@@ -1,0 +1,10 @@
+{
+  "id": "com.dsd.quote.plugin",
+  "name": "Du - Quote Plugin",
+  "description": "This plugin allows users to generate quotes within Mattermost.",
+  "version": "2.0.0,
+  "min_server_version": "9.0.0",
+  "webapp": {
+    "bundle_path": "webapp/dist/main.js"
+  }
+}
